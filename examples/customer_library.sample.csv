@@ -1,0 +1,3 @@
+shop_name,company_name,region,matched_keywords,enabled
+示例药房A,示例客户公司A,示例区域A,示例药房A,true
+示例旗舰店B,示例客户公司B,示例区域B,示例旗舰店B,true

@@ -1,0 +1,3 @@
+plan_id,product_name,specification,brand,platforms,required_keywords,priority,enabled
+plan_demo_001,示例产品A,10ml*10支,示例品牌,"platform_a;platform_b","示例产品A;10ml",10,true
+plan_demo_002,示例产品B,20片/盒,示例品牌,"platform_a","示例产品B;20片",20,true

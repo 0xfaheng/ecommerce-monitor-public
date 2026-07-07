@@ -1,0 +1,27 @@
+{
+  "run_id": "demo-0001",
+  "mode": "dry_run",
+  "generated_at": "2026-01-01T09:00:00+08:00",
+  "summary": {
+    "plans": 2,
+    "candidates": 2,
+    "filtered": 0,
+    "ready_for_confirmation": 2,
+    "ready_to_notify": 0,
+    "sent": 0
+  },
+  "stages": [
+    "load_product_plans",
+    "collect_candidates",
+    "normalize_fields",
+    "apply_rules",
+    "match_customers",
+    "route_staff",
+    "write_register",
+    "dry_run_notify",
+    "write_audit_manifest"
+  ],
+  "notes": [
+    "公开示例不包含真实平台、真实客户或真实收件人。"
+  ]
+}

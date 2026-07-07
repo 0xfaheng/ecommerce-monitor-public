@@ -1,0 +1,3 @@
+region,owner_role,support_role,recipient_ids,enabled
+示例区域A,区域负责人A,客服角色A,,true
+示例区域B,区域负责人B,客服角色B,,true
