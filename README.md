@@ -4,6 +4,14 @@
 
 本仓库不包含任何真实客户、员工、账号、Cookie、数据库、飞书/Lark Base token、机器人密钥、服务器地址、历史运行记录或生产部署脚本。公开版只保留可复用的产品思路和流程骨架，便于他人理解系统由哪些板块组成、每个环节如何衔接。
 
+## 联系我
+
+如果你想交流这个系统的设计思路、私有化落地方式或类似业务流程，可以加我的个人微信：
+
+- 微信号：`lairulan`
+
+<img src="assets/contact/wechat-lairulan.jpg" alt="如蓝个人微信二维码" width="280">
+
 ## 公开版边界
 
 包含：
@@ -50,6 +58,9 @@
 ├── CONTRIBUTING.md
 ├── .env.example
 ├── pyproject.toml
+├── assets/
+│   └── contact/
+│       └── wechat-lairulan.jpg
 ├── docs/
 │   ├── 01-业务流程.md
 │   ├── 02-模块与目录.md
