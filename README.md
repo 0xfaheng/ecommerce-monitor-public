@@ -1,3 +1,12 @@
+<!-- 0xfaheng-brand:start -->
+**0xfaheng · ecommerce-monitor-public**
+
+[品牌主页与全部公开项目](https://github.com/lairulan) · [当前仓库](https://github.com/lairulan/ecommerce-monitor-public)
+
+<!-- 0xfaheng-brand:end -->
+
+---
+
 # 电商挂网监控流程公开版
 
 这是一个经过脱敏处理的公开说明仓库，用来展示“电商挂网监控”系统的模块划分、业务流程、数据字段和运维环节。
