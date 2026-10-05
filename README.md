@@ -3,9 +3,9 @@
 
 > 0xfaheng · 上海封阳科技创始人
 
-[品牌主页与全部公开项目](https://github.com/lairulan) · [当前仓库](https://github.com/lairulan/ecommerce-monitor-public)
+[品牌主页与全部公开项目](https://github.com/0xfaheng) · [当前仓库](https://github.com/0xfaheng/ecommerce-monitor-public)
 
-微信：`faheng2009` · [X @0xfaheng](https://x.com/0xfaheng) · [YouTube @0xfaheng](https://www.youtube.com/@0xfaheng) · [微信二维码](https://github.com/lairulan#联系与关注)
+微信：`faheng2009` · [X @0xfaheng](https://x.com/0xfaheng) · [YouTube @0xfaheng](https://www.youtube.com/@0xfaheng) · [微信二维码](https://github.com/0xfaheng#联系与关注)
 
 <!-- 0xfaheng-brand:end -->
 
@@ -21,9 +21,9 @@
 
 如果你想交流这个系统的设计思路、私有化落地方式或类似业务流程，可以加我的个人微信：
 
-- 微信号：`lairulan`
+- 微信号：`faheng2009`
 
-<img src="assets/contact/wechat-lairulan.jpg" alt="如蓝个人微信二维码" width="280">
+<img src="https://raw.githubusercontent.com/0xfaheng/0xfaheng/main/assets/wechat-qr.png" alt="0xfaheng 微信二维码，微信号 faheng2009" width="280">
 
 ## 公开版边界
 
